@@ -6,10 +6,10 @@ permalink: index.html
 
 ## About
 
-<img src="../img/OusaChea.jpg" width="100">
+<img src="../img/OusaChea.jpg" width="300"> \\
 
 
-APSC
+The B.S. in Applied Science at UW-Stout \\
 
 ## Contact Information
 
@@ -17,7 +17,7 @@ APSC
 
 University of Wisconsin - Stout\\
 410 10th Ave E\\
-Menomonie, WI 54751\\
+Menomonie, WI 54751 \\
 
 
 ### On the web
