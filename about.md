@@ -6,7 +6,7 @@ permalink: index.html
 
 ## About
 
-<img src="../img/Photo by Ousa Chea on Unsplash.jpg" width="100">
+<img src="../img/OusaChea.jpg" width="100">
 
 
 APSC
