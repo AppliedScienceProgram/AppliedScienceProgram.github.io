@@ -1,3 +1,3 @@
-# Interdisciplinary Science (B.S. in Applied Science) at UW-Stout
+# IDS
 
-## 
+## Interdisciplinary Science (B.S. in Applied Science) at UW-Stout
