@@ -6,22 +6,21 @@ permalink: index.html
 
 ## About
 
-<img src="../img/Todd_Headshot.png" width="100">
+<img src="../img/OusaChea.jpg" width="300"> \\
 
 
-I am an associate professor at the University of Wisconsin - Stout.  My main interests are using photon/matter interactions to study the properties of systems.  I am also interested in incorporating computational activities into the physics curriculum.
+The B.S. in Applied Science at UW-Stout \\
 
 ## Contact Information
 
 ### Physical Address
 
-Department of Chemistry and Physics\\
 University of Wisconsin - Stout\\
 410 10th Ave E\\
-Menomonie, WI 54751\\
+Menomonie, WI 54751 \\
 
 
 ### On the web
 
--   Email: [<i class='fa fa-envelope-o'></i>](mailto:zimmermant@uwstout.edu)
--   GitHub: [<i class='fa fa-github'></i>](https://github.com/zimmermant)
+-   Email: [<i class='fa fa-envelope-o'></i>](mailto: )
+-   GitHub: [<i class='fa fa-github'></i>](https://github.com/AppliedScienceProgram)
